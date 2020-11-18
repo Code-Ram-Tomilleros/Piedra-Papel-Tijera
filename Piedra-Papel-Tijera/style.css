@@ -1,0 +1,11 @@
+.header {
+    background-color: #4ed2f3;
+    color: #000;
+    padding-bottom: 20px;
+    text-align: center;
+    display: flex;
+    border-bottom: 5px solid #000;
+  }
+  .header h1 {
+    
+    padding-top: 40px;
